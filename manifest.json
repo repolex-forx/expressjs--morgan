@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "expressjs",
+  "repo": "morgan",
+  "versions": [
+    {
+      "commit": "c1c7f107d2b58d4b9af655b7347cfe29815a897c",
+      "parsed_at": "2026-04-10T18:03:05.415059+00:00",
+      "tag": "1.10.1",
+      "filetree": "filetree/c1c7f107d2b58d4b9af655b7347cfe29815a897c.nq.gz",
+      "blobs": [
+        "blob/817cc7136d5aeb1bc9db1f2f2a67a7786238a4eb.nq.gz",
+        "blob/d0682d45b39aaf4ce5e816695f3b6c756440f697.nq.gz",
+        "blob/cb39cd8d71d725ab62ebceb339dbbfc70bf6fd85.nq.gz",
+        "blob/b33c4f2fd29335a7a32a030c5bf161bac4fb96cf.nq.gz",
+        "blob/54abc240ebd344279e0dbdd29930b2e454e16235.nq.gz",
+        "blob/cc15ef79e3c0f409f3313d9cd26219a04700ad56.nq.gz",
+        "blob/dc5519c3432d3b300412464cd3bced27956a1a75.nq.gz",
+        "blob/0e064f47bff27efdbdb6abc4063f834b7ea6a0b5.nq.gz",
+        "blob/3fefed9d26fb932c719530cf883d68b296293ada.nq.gz",
+        "blob/8168e75b39eb6b4d583c14ec32aeb435ac6873b4.nq.gz",
+        "blob/9808c3b2b6602da61eb4afcb4caf33368e3e2bd4.nq.gz",
+        "blob/f15b98e249d653f23d7e121037bde0eae1817582.nq.gz",
+        "blob/fb6c3102d4873f71f182a336dfaa91e852a0e01f.nq.gz",
+        "blob/cc6379790c67810fb0a9e3dd7099dee55d4dd058.nq.gz",
+        "blob/1eece14ad8cb98de2093fac5eef5ccee89472ff8.nq.gz",
+        "blob/76b1021d09a5774679c815f83d1c9a4bccf21c28.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
